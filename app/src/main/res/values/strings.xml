@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ART - Settings Launcher</string>
+    <string name="main_title">ART</string>
+    <string name="settings_button">Настройки</string>
+    <string name="version_info">версия 1.3 - ART</string>
+</resources>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Фоновое круглое пространство -->
+    <path
+        android:fillColor="#1C1C1C"
+        android:pathData="M0,0h108v108h-108z"/>
+    
+    <!-- Внешняя граница -->
+    <path
+        android:fillColor="#333333"
+        android:pathData="M54,6c26.51,0 48,21.49 48,48s-21.49,48-48,48s-48,-21.49-48,-48S27.49,6,54,6z"/>
+    
+    <!-- Скорпийон тело -->
+    <path
+        android:fillColor="#C9A96E"
+        android:pathData="M50,45c-8,-2 -12,-8 -10,-16l2,-8c2,-6 6,-10 12,-10h4c4,0 8,2 10,6c2,4 0,10 -4,14l-8,8c-4,4 -8,6 -12,6s-6,0 -6,-4"/>
+    
+    <!-- Скорпийон голова -->
+    <path
+        android:fillColor="#C9A96E"
+        android:pathData="M66,45c4,0 8,2 10,6c2,4 2,8 0,12c-2,4 -6,6 -10,6h-2c-2,0 -4,0 -6,-2c-2,-2 -2,-6 0,-10c2,-4 4,-8 8,-12z"/>
+    
+    <!-- Скорпийон хвост -->
+    <path
+        android:fillColor="#C9A96E"
+        android:pathData="M54,25c0,-4 -2,-8 -4,-12c-2,-4 -2,-8 0,-12c2,-4 6,-6 10,-6c4,0 8,2 10,6c2,4 2,8 0,12c-2,4 -4,8 -4,12s-4,8 -6,12c-2,4 -4,6 -6,6s-6,-2 -6,-6c0,-2 0,-6 6,-12z"/>
+    
+    <!-- Скорпийон клешня левая -->
+    <path
+        android:fillColor="#C9A96E"
+        android:pathData="M40,40c-4,-2 -6,-6 -4,-10c2,-4 6,-6 10,-4l8,4c4,2 6,6 4,10c-2,4 -6,6 -10,4l-8,-4z"/>
+    
+    <!-- Скорпийон клешня правая -->
+    <path
+        android:fillColor="#C9A96E"
+        android:pathData="M70,50c4,2 6,6 4,10c-2,4 -6,6 -10,4l-8,-4c-4,-2 -6,-6 -4,-10c2,-4 6,-6 10,-4l8,4z"/>
+    
+    <!-- Ноги скорпийона -->
+    <path
+        android:fillColor="#C9A96E"
+        android:pathData="M46,55l-4,2l2,4l4,-2z"/>
+    <path
+        android:fillColor="#C9A96E"
+        android:pathData="M62,55l4,2l-2,4l-4,-2z"/>
+    <path
+        android:fillColor="#C9A96E"
+        android:pathData="M48,60l-4,2l2,4l4,-2z"/>
+    <path
+        android:fillColor="#C9A96E"
+        android:pathData="M60,60l4,2l-2,4l-4,-2z"/>
+    
+    <!-- Детали хвоста -->
+    <path
+        android:fillColor="#B89550"
+        android:pathData="M54,15c2,0 4,2 4,4s-2,4 -4,4s-4,-2 -4,-4s2,-4 4,-4z"/>
+    <path
+        android:fillColor="#B89550"
+        android:pathData="M54,20c2,0 4,2 4,4s-2,4 -4,4s-4,-2 -4,-4s2,-4 4,-4z"/>
+    <path
+        android:fillColor="#B89550"
+        android:pathData="M54,25c2,0 4,2 4,4s-2,4 -4,4s-4,-2 -4,-4s2,-4 4,-4z"/>
+    
+    <!-- Жало -->
+    <path
+        android:fillColor="#B89550"
+        android:pathData="M50,10l4,0l2,2l-8,0z"/>
+        
+</vector>
